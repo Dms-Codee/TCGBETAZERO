@@ -8,7 +8,7 @@ function Home() {
   return (
     <div>
       <h1 className="text-4xl font-bold">
-        Proyecto Zero
+       TCG-BETA-Zero
       </h1>
 
       <p className="mt-4">
